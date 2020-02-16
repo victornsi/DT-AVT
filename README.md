@@ -1,5 +1,5 @@
 # DT-AVT
-**Digital Thread Analysis and Visualization Tool**
+**Digital Thread Analysis and Visualization Tool (DT-AVT)**
 
 **About:** This repository is the analysis and visualization tool used in the following articles and thesis:
 
