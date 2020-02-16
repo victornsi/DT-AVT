@@ -13,7 +13,7 @@ The Digital Thread, Digital Twins, and the design process at various stages can 
 A demo run has been completed for viewing. Simply launch `visualizer.m`. From there, right-click in the right pane and select load. From the loading screen, load `Runs/DATA_N2000.mat`. Though the file is loaded, data still needs to be generated. To that end, right-click in the right pane, and select `Policies > Evaluate`. Once data generation is complete, navigate Digital Threads and Twins using the search tree. Right click in the figure pane or plots for additional viewing options.
 
 # Contact
-If you need more detailed instructions or assistance for navigation or setting up your own problem, email: 
+If you need more detailed instructions, assistance for navigation, or setting up your own design problem, email: 
 
 victorsi at mit dot edu 
 
