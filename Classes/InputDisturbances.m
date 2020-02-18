@@ -147,7 +147,7 @@ classdef InputDisturbances < handle
         
         % Get Statistics
         function [loads,matAllow,mParam] = getStatistics(obj)
-            % Get Mean and Variance of GP for loads
+            % Get Mean and Variance for loads
             loads.u = reshape(obj.loads.u,[],5);
             loads.S = sqrt(diag(obj.loads.S));
             loads.SS = obj.loads.S;

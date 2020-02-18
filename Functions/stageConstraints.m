@@ -71,7 +71,7 @@ dFds = dFds*f;
 [d,dds] = softmaximum(F,1);
 dds = [dds(:);dds(:)].*dFds;
 
-% Reconstruct with distance from initial
+% Construct final constraint and gradient
 g = [g;d];
 dg = [[dg;0*dds;p*0],[dg*0;dds;p*0]];
 

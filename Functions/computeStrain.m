@@ -86,7 +86,7 @@ if F == 0
     return
 end
 
-% Get Transformation Matrices and strains for sensors at sensor locations
+% Get transformation matrices and strains for sensors at sensor locations
 Sp = @(x) spdiags(x,0,size(x,1),size(x,1));
 Ti = region.sensorInterp(xi);
 Ti = blkdiag(Ti,Ti,Ti);
