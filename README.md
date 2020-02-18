@@ -1,7 +1,8 @@
 # DT-AVT
 **Digital Thread Analysis and Visualization Tool (DT-AVT)**
 
-![](Figures/DT-AVT.png "Screenshot of DT-AVT")
+![](Figures/DT-AVT.png)
+*Screenshots of DT-AVT*
 
 # About 
 This repository contains the analysis and visualization tool used in the following articles and thesis:
