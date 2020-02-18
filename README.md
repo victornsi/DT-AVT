@@ -1,7 +1,7 @@
 # DT-AVT
 **Digital Thread Analysis and Visualization Tool (DT-AVT)**
 
-![DT-AVT Screenshots](/Figures/images/DT-AVT.png)
+![](Figures/DT-AVT.png "Screenshot of DT-AVT")
 
 # About 
 This repository contains the analysis and visualization tool used in the following articles and thesis:
@@ -11,7 +11,7 @@ This repository contains the analysis and visualization tool used in the followi
 
 Digital Threads, Digital Twins, and the design process at various stages can be analyzed and visualized at the component level within this tool. Different policies can be compared (including designs) and their performances can be quantified. The tool is written in the context of the example design ribweb problem presented in the above works though it can be readily modified to suite other design scenarios. All code is written in MATLAB R2018b on a Windows 10 64-bit machine.
 
-# Quck Start
+# Quick Start
 A demo ribweb has been setup for running and viewing.
 1. Launch `visualizer.m`. From there, right-click in the right pane and select load. From the loading screen, load `Demos/RibWebSeed.mat`. 
 1. Next, initialize policies by right-clicking in the right pane and selecting `Policies > Initialize`. 
