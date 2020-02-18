@@ -1,7 +1,6 @@
 function X = multiprod3(varargin)
 % About: Compute multiarray matrix multiplication A1 * A2 ... * AN of N 3D-Matrix-Arrays
-% Higher dimensions are collapsed into 3rd dimension and re-expanded after
-% inverse computation
+% Higher dimensions are collapsed into 3rd dimension and re-expanded after computations
 %
 % Author: Victor Singh
 % Lab: MIT ACDL
