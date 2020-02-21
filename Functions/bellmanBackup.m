@@ -383,7 +383,7 @@ dc = dg_t;
 ceq = 0;
 dceq = 0*a;
 
-% Transform back into b coordinates
+% Report out
 disp('----------------------------------------')
 disp(['Constraint: ',sprintf('%8.4f ',c(:))])
 
