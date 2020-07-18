@@ -51,7 +51,7 @@ classdef InputDisturbances < handle
         
         % Sampler
         function sample(obj,M,d)
-            % Draw Samples from Gaussian Process
+            % Draw Samples from Multivariate Gaussian for Loads
             if strcmp(d,'all') || isfield(d,'strains')
                 u = obj.loads.u;
                 S = obj.loads.S;
