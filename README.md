@@ -23,5 +23,4 @@ A demo ribweb has been setup for running and viewing.
 # Contact
 If you need more detailed instructions, assistance for navigation (including all features of the tool not described in **Quick Start**), or setting up and running your own design problem, please email: 
 
-victorsi at mit dot edu 
-
+victorsingh at alum dot mit dot edu
