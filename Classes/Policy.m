@@ -231,7 +231,6 @@ classdef Policy < handle
             u = kx.*a + ao;
            
             % Calculate Value Function
-            % Calculate Control
             V = B*kj + bo;
      
             % Calculate Control Basis
