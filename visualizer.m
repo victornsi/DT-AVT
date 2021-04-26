@@ -625,6 +625,11 @@ selected = DATA.Selected;
 % Determine number of selected
 Ns = size(selected,2);
 
+% Don't Do Anything if Ns is zero
+if Ns == 0
+    return
+end
+
 % Launch different functions depending on selected
 if Ns == 1 && strcmp(selected{1},'Policies')
     % Create a Panel within the main panel
